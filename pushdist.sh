@@ -1,1 +1,1 @@
-cnpm run build && git add . && git commit -m 'normal build'
+cnpm run build && git add . && git commit -m 'normal build' && git push
